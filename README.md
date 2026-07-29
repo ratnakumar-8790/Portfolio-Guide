@@ -1,8 +1,11 @@
 # 🗺 Ratna Kumar's Portfolio
 --
+
+
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
+
+
 ---
-# 👋 Ratna Kumar
 
 ## 📚 Table of Contents
 
@@ -15,8 +18,10 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ## SQL
 
-- SQL Project 1
-- SQL Project 2
+| Project Link | Area of Analysis | Project Description |
+|--------------|------------------|---------------------|
+|  |  | |
+
 
 ---
 
