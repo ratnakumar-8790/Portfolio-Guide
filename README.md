@@ -17,6 +17,15 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ---
 
+# Data Analysis
+
+| Project Link | Completion Date | Tools | Project Description |
+|---|---|---|---|
+|  [Sales & Revenue MIS Dashboard — Global Superstore](https://github.com/ratnakumar-8790/sales-revenue-mis-dashboard-excel.git) | July 2026 | Main Excel & Power Query | Interactive Excel MIS dashboard analyzing 51K+ global sales orders — star schema data model, Power Query cleaning, DAX measures, and profitability insights across markets, products, and customer segments. |
+
+
+---
+
 ## SQL
 
 | Project Link | Area of Analysis | Project Description |
