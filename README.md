@@ -1,6 +1,6 @@
 # 🗺 Ratna Kumar's Portfolio
 
---
+
 
 
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
@@ -30,6 +30,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
+| [Sales & Revenue MIS Dashboard — Global Superstore](https://github.com/ratnakumar-8790/sales-revenue-mis-dashboard-excel.git)  | Interactive Excel MIS dashboard analyzing 51K+ global sales orders — star schema data model, Power Query cleaning, DAX measures, and profitability insights across markets, products, and customer segments. |[Dashboard](Global_Superstore_Dashboard.xlsx) |
 
 
 ---
@@ -45,3 +46,14 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
+
+
+
+## 👋 Connect with Me
+
+- 💼 [LinkedIn]( https://www.linkedin.com/in/ratna-kumar8790/ )
+
+- 💻 [GitHub]( https://github.com/ratnakumar-8790 )
+
+- 📧 Rathnakumar8790@gmail.com
+
